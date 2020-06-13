@@ -1,2 +1,0 @@
-A=8
-print("Hola",A)
